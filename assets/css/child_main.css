@@ -1,0 +1,27 @@
+.minus {
+  background: white;
+  color: black;
+  border-radius: 50%;
+  border: solid gray 2px;
+  font-size: 15px;
+}
+
+.minus:hover {
+  background: orange;
+}
+
+.plus {
+  background: white;
+  color: black;
+  border-radius: 50%;
+  border: solid gray 2px;
+  text-align: center;
+}
+
+.plus:hover {
+  background: orange;
+}
+
+#count {
+  text-align: center;
+}
